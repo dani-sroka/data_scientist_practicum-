@@ -8,8 +8,8 @@
 - the average number of rides that ended in each neighborhood in November 2017 (94 entries).
 
 ## Saturday_rides
+
 - rides durations from the Loop to O'Hare International Airport on November 2017 Saturdays, and the weather conditions for each ride day:
- 
 - start_ts: pickup date and time
 - weather_conditions: weather conditions at the moment the ride started
 - duration_seconds: ride duration in seconds
