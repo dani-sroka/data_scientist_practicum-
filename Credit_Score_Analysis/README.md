@@ -13,7 +13,7 @@
 - purpose: reason for taking out a loan
 
 # Goal
-Finding out if a customer’s marital status and number of children have correlations with default rates on a loan, in order to decide whether to consider these data when building the **credit score** of a potential customer. The corelation of income level and of loan purpose with default rate is also checked.
+Finding out if a customer’s marital status and number of children have correlations with default rates on a loan, in order to decide whether to consider these data when building the **credit score** of a potential customer. The correlations of income level and of loan purpose with default rate are also checked.
 
 # Libraries
 *pandas*
